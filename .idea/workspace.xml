@@ -103,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoAdvanceVariable">
+  <component name="RunManager" selected="Application.New">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.Demo" />
       <module name="demo-project-core-java-7PM" />
@@ -137,8 +137,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New" />
+      <module name="demo-project-core-java-7PM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.New" />
         <item itemvalue="Application.DemoAdvanceVariable" />
         <item itemvalue="Application.DemoVariable" />
         <item itemvalue="Application.Demo" />
