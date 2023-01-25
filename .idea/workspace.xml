@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="The new project">
-      <change afterPath="$PROJECT_DIR$/src/demo/String_Class.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="String Classes">
+      <change afterPath="$PROJECT_DIR$/src/variable/Demo_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variablesprint/Variablesimran.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +39,9 @@
         <option value="$PROJECT_DIR$/src/variable/DemoAdvanceVariable.java" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -85,19 +93,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.String_Class">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Variablesimran">
     <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
       <module name="demo-project-core-java-7PM" />
@@ -144,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variablesimran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variablesprint.Variablesimran" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variablesprint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Variablesimran" />
         <item itemvalue="Application.String_Class" />
         <item itemvalue="Application.New" />
         <item itemvalue="Application.DemoAdvanceVariable" />
         <item itemvalue="Application.DemoVariable" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674389504931</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="String Classes">
+      <created>1674389883426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674389883426</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -286,7 +307,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="The new project" />
+    <MESSAGE value="String Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Classes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
